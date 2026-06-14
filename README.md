@@ -1,5 +1,5 @@
 # Project1
-This is my first git repositort
+This is my first git repository
 <br>
 Author-Nidhi (college)
 
